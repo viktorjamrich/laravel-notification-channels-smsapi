@@ -1,16 +1,9 @@
 # Smsapi notifications channel for Laravel
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/laravel-notification-channels/smsapi.svg)](https://packagist.org/packages/laravel-notification-channels/smsapi)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/viktorjamrich/laravel-notification-channels-smsapi.svg)](https://packagist.org/packages/viktorjamrich/laravel-notification-channels-smsapi)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/laravel-notification-channels/smsapi/master.svg)](https://travis-ci.org/laravel-notification-channels/smsapi)
-[![StyleCI](https://styleci.io/repos/89257474/shield)](https://styleci.io/repos/89257474)
-[![Quality Score](https://img.shields.io/scrutinizer/g/laravel-notification-channels/smsapi.svg)](https://scrutinizer-ci.com/g/laravel-notification-channels/smsapi)
-[![Code Coverage](https://scrutinizer-ci.com/g/laravel-notification-channels/smsapi/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/laravel-notification-channels/smsapi/?branch=master)
-[![Total Downloads](https://poser.pugx.org/laravel-notification-channels/smsapi/downloads)](https://packagist.org/packages/laravel-notification-channels/smsapi)
-[![PHP 7 ready](https://php7ready.timesplinter.ch/laravel-notification-channels/smsapi/master/badge.svg)](https://travis-ci.org/laravel-notification-channels/smsapi)
 
-This package makes it easy to send notifications using [Smsapi](https://www.smsapi.pl/) with Laravel 5.5+, 6.x, & 7.x
-
+This package makes it easy to send notifications using [Smsapi](https://www.smsapi.pl/) with Laravel 12+
 ## Contents
 
 - [Installation](#installation)
@@ -30,7 +23,7 @@ This package makes it easy to send notifications using [Smsapi](https://www.smsa
 You can install the package via composer:
 
 ```bash
-composer require laravel-notification-channels/smsapi
+composer require viktorjamrich/laravel-notification-channels-smsapi
 ```
 
 You can also publish the config file with:
